@@ -1,7 +1,5 @@
 package sistemaBancario;
 
-package sistemaBancario;
-
 public class Funcionario extends Thread {
     private static final double SALARIO = 1400;
     private static final double TAXA_INVESTIMENTO = 0.2;
